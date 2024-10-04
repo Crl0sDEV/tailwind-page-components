@@ -11,6 +11,12 @@ const people = [
       role: 'Web Developer',
       imageUrl: 'https://images.app.goo.gl/GZCDxtyozSQUr4Wb8',
     },
+
+    {
+      name: 'Migoy Sandrino',
+      role: 'Web Designer',
+      imageUrl: 'https://images.app.goo.gl/GZCDxtyozSQUr4Wb8',
+    },
   ]
   
   export default function Company() {
